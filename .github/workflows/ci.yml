@@ -67,7 +67,7 @@ jobs:
         if: always()                 # Run even if tests fail
         with:
           name: Test Results
-          path: 'target/surefire-reports/*.xml'
+          path: '**/surefire-reports/TEST-*.xml'
           reporter: java-junit
 
       # ── Step 5: Generate coverage badge ───────────────────────────────────
