@@ -6,7 +6,7 @@
 
 ![Build Status](https://github.com/mrsaiduck/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)
 ![Coverage](https://github.com/mrsaiduck/Maven-Build-System-Demo/raw/gh-pages/.badges/jacoco.svg)
-![Branches](https://github.com/mrsaiduck/Maven-Build-System-Demo/raw/gh-pages/.badges/branches.svg)
+![Branches](https://github.com/mrsaiduck/Maven-Build-System-Demo/raw/gh-pages/.badges/branches.svg) 
 
 Hi
 A simple Java project that demonstrates core Maven (build system) concepts and CI/CD with GitHub Actions.
